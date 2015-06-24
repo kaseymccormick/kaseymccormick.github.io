@@ -5,7 +5,7 @@ date:   2015-06-16 09:10:39
 categories: ruby sqlite
 ---
 
-#The assignment#
+##The assignment##
 The task was simply to create a database with three or more tables. That delt with multiple connections from one table to at least one other. In the example it was books on a specific shelf likely seperated by genre in a specific branch of a library. I wanted to create something I may use further in the course. A song inventory database that collects Title, Artist, genre, and status in my case: wish list, purchased or own but not on computer.
 
 ##My Solution - Song inventory Management##
