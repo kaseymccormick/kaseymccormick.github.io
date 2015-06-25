@@ -5,7 +5,7 @@ date:   2015-06-24 4:50:39
 categories: ruby sqlite html sinatra ORM
 ---
 #What is an ORM#
-ORM is Object Relational Mapping, it's a foundation to convert data between two systems that don't interact with eachother in my case Ruby and SQLite3. ORMs typically involve 4 main functions which are CRUD's functions that Create, Read, Update or Destory the information. The database I use, sqlite3 is limited on how it can manipulate or change information. It can filter, organize and give back data simply. It needs to be told when and how to update or delete data. 
+ Object Relational Mapping(ORM), is a foundation to convert data between two systems that don't interact with eachother in my case Ruby and SQLite3. ORMs typically involve 4 main functions which are CRUD's functions that Create, Read, Update or Destory the information. The database I use, sqlite3 is limited on how it can manipulate or change information. It can filter, organize and give back data simply. It needs to be told when and how to update or delete data. 
 
 **it doesn't have to have**
 modules. 
