@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is an ORM"
-date:   2015-24-16 4:50:39
+date:   2015-06-24 4:50:39
 categories: ruby sqlite html sinatra ORM
 ---
 #What is an ORM#
