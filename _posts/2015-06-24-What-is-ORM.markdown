@@ -16,7 +16,9 @@ modules.
 **How it helps get all of a table's rows from the database** 
 I have a module that can be used across classes to access all rows of a table by making a connection to the database, then asking to return all items from a specific table.
 **For example this module:**
+
 ```ruby
+
   #method called all to return all rows from a table as objects
   def all
     # Figure out the table's name from the class we're calling the method on.
@@ -38,6 +40,7 @@ I have a module that can be used across classes to access all rows of a table by
     #guarenteeing the method returns the array of objects
     return results_as_objects
   end
+  
 ```
  
 **How it returns the information I ask for**
