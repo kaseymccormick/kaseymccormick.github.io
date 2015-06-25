@@ -7,18 +7,17 @@ categories: ruby sqlite html sinatra ORM
 #What is an ORM#
  Object Relational Mapping(ORM), is a foundation to convert data between two systems that don't interact with eachother in my case Ruby and SQLite3. ORMs typically involve 4 main functions which are CRUD's functions that Create, Read, Update or Destory the information. The database I use, sqlite3 is limited on how it can manipulate or change information. It can filter, organize and give back data simply. It needs to be told when and how to update or delete data. 
 
-**it doesn't have to have**
-modules. 
+An ORM does not have to have modules. 
 
 ##My ORM Solution##
 
 
-**How it helps get all of a table's rows from the database** 
-I have a module that can be used across classes to access all rows of a table by making a connection to the database, then asking to return all items from a specific table.
-**For example this module:**
+
+**I have a module that can be used across classes to access all rows of a table by making a connection to the database, then asking to return all items from a specific table.**
+
+For example this module method:
 
 ```ruby
-
   #method called all to return all rows from a table as objects
   def all
     # Figure out the table's name from the class we're calling the method on.
@@ -39,13 +38,14 @@ I have a module that can be used across classes to access all rows of a table by
   
     #guarenteeing the method returns the array of objects
     return results_as_objects
-  end
-  
+  end 
 ```
  
-**How it returns the information I ask for**
-I have several methods that call for specific peices of information. I routinely call for a row of information for a certain id and also call for rows with a certain e-mail.
-**For example this module:**
+
+**I have several methods that call for specific peices of information. I routinely call for a row of information for a certain id and also call for rows with a certain e-mail.**
+
+For example this module method:
+
 ```ruby
   #method called find that requires id peramiter (intiger form)
   #this will always return one row or none because it looks up by id which is a primary key
@@ -70,9 +70,10 @@ I have several methods that call for specific peices of information. I routinely
   end
 ```
  
-**The conversions I have it make to the data**
-Currently the conversions are mainly to change the array of hashes I receive into objects.  
-**For example this section of the all method**
+**Currently the conversions are mainly to change the array of hashes I receive into objects.**
+
+For example this section of the all module method
+
 ```ruby
     #creates an empty array called results as objects
     results_as_objects = []
