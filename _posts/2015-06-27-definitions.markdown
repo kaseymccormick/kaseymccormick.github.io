@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is an ORM"
+title:  "definitions"
 date:   2015-06-24 4:50:39
 categories: ruby sqlite ORM
 ---
