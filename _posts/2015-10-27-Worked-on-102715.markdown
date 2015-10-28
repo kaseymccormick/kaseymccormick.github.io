@@ -21,12 +21,16 @@ Slidedeck of research about other companies in our industry and outside of it ha
 
 ##For Contract
 Exporting a wordpress database so another company can use it to create an app. Limited knowledge and time for wordpress database export customization. So using plugin from wordpress to csv and using excell to drill down the columns. Had to ask for help - deadline constraint. 
+
 +1 knowing people who know things. 
+
 +1 asking for help
 
 ##Side Project One 
 Parent teacher conference scheduler. Created the first draft of specs and a database table setup. Still missing some information need to include it before team reviews it. 
+
 +1 involving others 
+
 +1 asking for help
 
 ##Side Project Two
