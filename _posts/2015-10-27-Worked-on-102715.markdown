@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Worked On"
+date:   2015-10-27 09:48:39
+categories: working-on progress
+---
+
+#A record of What I did on 102715#
+**Mainly because I have _four_ jobs**
+
+
+##At Internship
+Slidedeck of research about other companies in our industry and outside of it handle what we're trying to do usability and front end wise.
+
+##For Contract
+Exporting a wordpress database so another company can use it to create an app. Limited knowledge and time for wordpress database export customization. So using plugin from wordpress to csv and using excell to drill down the columns. Had to ask for help - deadline constraint. +1 knowing people who know things. +1 asking for help
+
+##Side Project One
+Parent teacher conference scheduler. Created the first draft of specs and a database table setup. Still missing some information need to include it before team reviews it. +1 involving others +1 asking for help
+
+##Side Project Two
+Availability overlap - on hold but using new language that i'm using at internship
+
+##Side Project Three
+Upcycled laundry hamper. Turning the pvc and mesh bags into something presentable in a bathroom guests use. Basically making a box for it to sit in. - No work done today 
+
+#### Job count today
+3
+[Internship, retail, data processing ]
