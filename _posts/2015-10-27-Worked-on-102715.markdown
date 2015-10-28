@@ -12,16 +12,22 @@ categories: working-on progress
 ##At Internship
 Slidedeck of research about other companies in our industry and outside of it handle what we're trying to do usability and front end wise.
 
-*Interesting finds/refinds*
+**Interesting finds/refinds**
+
 3 Click rule- remember reading about it. Basically it's gotten out of hand and people take it to literally that everything should only be three clicks away rather then thinking of the organization of the information.
+
 [Information scent] (https://en.wikipedia.org/wiki/Information_foraging)- "humans rely on various cues in the information environment to get similar answers. Human users estimate how much useful information they are likely to get on a given path, and after seeking information compare the actual outcome with their predictions. When the information scent stops getting stronger (i.e., when users no longer expect to find useful additional information), the users move to a different information source."
 
 
 ##For Contract
-Exporting a wordpress database so another company can use it to create an app. Limited knowledge and time for wordpress database export customization. So using plugin from wordpress to csv and using excell to drill down the columns. Had to ask for help - deadline constraint. +1 knowing people who know things. +1 asking for help
+Exporting a wordpress database so another company can use it to create an app. Limited knowledge and time for wordpress database export customization. So using plugin from wordpress to csv and using excell to drill down the columns. Had to ask for help - deadline constraint. 
++1 knowing people who know things. 
++1 asking for help
 
 ##Side Project One 
-Parent teacher conference scheduler. Created the first draft of specs and a database table setup. Still missing some information need to include it before team reviews it. +1 involving others +1 asking for help
+Parent teacher conference scheduler. Created the first draft of specs and a database table setup. Still missing some information need to include it before team reviews it. 
++1 involving others 
++1 asking for help
 
 ##Side Project Two
 Availability overlap - on hold but using new language that i'm using at internship
