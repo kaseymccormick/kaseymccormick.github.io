@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Worked On"
+date:   2015-10-29 09:48:39
+categories: working-on progress
+---
+
+#A record of What I did on 102715#
+Mainly because **I have _four_ jobs** and several Side Projects.
+ 
+I have four jobs because they all pay within 5 dollars of what a big blue box retailer Cashier makes.
+
+##At Internship
+Presented slidedecks of information to company had research for four different companies on each and recomendations of changes. I haven't done much coding in the last week mainly research and ux/ui concerns. Hopefully code tomorrow
+
+
+##For Contract
+The excell export has more changes needed. Have to parse out other columns for more information, or just do it by hand. 
+
+_ask for best case senario (exactly what you desire) before doing work_ 
+
+
+##Side Project One 
+Parent teacher conference scheduler. Postponed first team meeting, but asked for review of current documents so i can address them earlier. TODO - all cards on table document: mainly explination how i see the project going and my intents of it.
+
+
+##Side Project Two
+Availability overlap - on hold but using new language that i'm using at internship
+
+##Side Project Three
+Upcycled laundry hamper. The box is created, but it didn't turn out like I envisioned, it's higher then I thought due to wheels and needing to add hight to cover the pvc. May just turn it into a mobile work station for paper crafting.
+
+#### Job count today
+2
+[Internship, contract ]
