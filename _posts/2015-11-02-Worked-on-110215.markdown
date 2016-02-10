@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Worked On"
+date:   2015-11-02 09:48:39
+categories: working-on progress
+---
+
+#A record of What I did on 110115#
+Mainly because **I have _four_ jobs** and several Side Projects.
+ 
+I have four jobs because they all pay within 5 dollars of what a big blue box retailer Cashier makes.
+
+##At Internship
+Hopscotch packaging files for dev team to implement.
+
+
+##For Contract One
+TODO Small changes to the website, logos and images. Checking on schedule for rest of the week.
+
+##For Contract Two
+This is new, trial period for the end of the year. Should start next week sometime. Front end development on Java/frameworker sites.
+
+##Side Project One 
+Parent teacher conference scheduler. Meeting this thursday about next steps/moving forward.
+
+
+##Side Project Two
+Availability overlap - on hold but using new language that i'm using at internship
+
+##Side Project Three
+Upcycled laundry hamper. The box is created, but it didn't turn out like I envisioned, it's higher then I thought due to wheels and needing to add hight to cover the pvc. May just turn it into a mobile work station for paper crafting.
+
+#### Job count today
+2
+[Internship, contract ]
